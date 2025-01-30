@@ -10,7 +10,7 @@ using System.Windows.Forms;
 
 
 // Isabella Da Silva
-// First Game
+// Guessing Game
 
 namespace GuessingGame
 {

@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 // Isabella Da Silva
-// First Game
+// Guessing Game
 
 namespace GuessingGame
 {

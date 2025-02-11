@@ -34,5 +34,14 @@ Open GuessingGame.sln in Visual Studio.
 ### 3️⃣ Run the Application
 ```
 Click the Start button (▶ Debug → Start Without Debugging).
-```
 The game window will open!
+```
+
+## 🎥 Demo Video
+🔗 Watch the Demo (Coming Soon!)
+
+## 📩 Contact
+For more about me, check out my **GitHub Profile README**:  
+🔗 [github.com/belladasilva](https://github.com/belladasilva)
+
+⭐ If you like this project, give it a star! 🌟
